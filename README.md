@@ -1,2 +1,2 @@
-# GitBasic
+# PHCET
 github basics
